@@ -1,7 +1,7 @@
 # meteor-w2ui
 
  This is just a simple meteor wrapper packages for the wonderful jquery
-extension http://w2ui.com/web/home">w2ui
+extension http://w2ui.com/web/home
 
 I running meteor demo is deployed at: http://demo-w2ui.meteor.com/
 
